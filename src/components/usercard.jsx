@@ -3,7 +3,7 @@ import React from "react";
 
 const Usercard = () => {
   // Static user details
-  const profilePhoto = "https://via.placeholder.com/150";
+  const profilePhoto = "https://iso.500px.com/wp-content/uploads/2016/02/stock-photo-114337435-1500x1000.jpg";
   const name = "John Doe";
   const email = "johndoe@example.com";
   const phone = "+1 234 567 890";
